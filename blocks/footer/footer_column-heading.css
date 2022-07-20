@@ -1,0 +1,6 @@
+.footer__column-heading {
+ display: flex;
+ margin-bottom: 20px;
+ align-self: flex-end;
+ padding-top: 10px;
+}

@@ -1,0 +1,13 @@
+.feynman__subtitle h3 {
+ line-height: 51px;
+ font-size: 36px;
+ font-weight: normal;
+ margin: 0 auto 0 auto;
+ z-index: 2;
+}
+
+.feynman__subtitle {
+ padding-top: 70px;
+ display: flex;
+ justify-content: center;
+}

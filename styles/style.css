@@ -1,0 +1,33 @@
+
+
+/**  <footer class="footer">
+    <div class="footer_column"></div>
+    <div class="footer_column__content_copyright">
+      <div class="logo__place_footer">
+        <img src="images/logo_place_footer.svg" alt="Логотип Яндекс Практикум"/>
+      </div>
+      <div class="footer_author">&copy; Виктор Абанькин</div>
+    </div>
+    <div class="footer_columns__content_info">
+      <div class="footer_column-heading">О Практикуме</div>
+      <div class="footer_column-links">Главная</div>
+      <div class="footer_column-links">Концепция</div>
+      <div class="footer_column-links">Наставники</div>
+    </div>
+    <div class="footer_column__content_social">
+      <div class="footer_column-heading">Соцсети</div>
+      <div class="footer_social-icon">
+        <img src="images/facebook_color_white.svg" alt="Facebook">
+      </div>
+      <div class="footer_column-link">Facebook</div>
+      <div class="footer_social-icon">
+        <img src="images/instagram_color_white.svg" alt="Instagram">
+      </div>
+      <div class="footer_column-link">Instagram</div>
+      <div class="footer_social-icon">
+        <img src="images/vk_color_white.svg" alt="ВКонтакте">
+      </div>
+      <div class="footer_column-link">ВКонтакте</div>
+    </div>
+
+  </footer>

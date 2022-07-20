@@ -1,0 +1,11 @@
+.cards__image {
+ padding: 60px 40px 0 40px;
+ display: flex;
+ justify-content: center;
+}
+.cards__image img {
+ width: 160px;
+ height: 160px;
+ border-radius: 100px;
+ margin: 0 40px;
+}

@@ -1,0 +1,11 @@
+.resources__logo-zone {
+ display: flex;
+ justify-content: center;
+ width: 1100px;
+ margin:  80px auto 217px auto; 
+}
+
+.resources__logo-zone img {
+  width: 270px;
+  height: 38px;
+}
